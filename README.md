@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on softwares
 - 🌱 I’m currently learning development, testing and clouding
-- 👯 I’m looking to collaborate on cloud communities 
+- 👯 I’m looking to collaborate with cloud developer communities 
 - 🤔 I’m looking for help with logic building
 - 💬 Ask me about cloud and programming
 - 📫 Reach me at my linkedin 
