@@ -1,4 +1,4 @@
-## Hi there, I am Hemanth. I am an aspiring SDET professional👋
+## Hey there, This is Hemanth. I am an aspiring SDET professional👋
 
 - 🔭 I’m currently working on software
 - 🌱 I’m currently learning development, testing and clouding
