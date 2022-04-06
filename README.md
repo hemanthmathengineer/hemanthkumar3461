@@ -1,4 +1,4 @@
-# Hi there, I am Hemanth 👋
+## Hi there, I am Hemanth 👋
 
 - 🔭 I’m currently working on softwares
 - 🌱 I’m currently learning development, testing and clouding
@@ -8,15 +8,10 @@
 - 📫 How to reach me: linkdin
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar3461&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
