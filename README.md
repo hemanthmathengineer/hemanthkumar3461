@@ -1,24 +1,16 @@
-## Hi there, I am Hemanth 👋
+## Hi there, I am Hemanth. I am an aspiring SDET professional👋
 
-- 🔭 I’m currently working on softwares
+- 🔭 I’m currently working on software
 - 🌱 I’m currently learning development, testing and clouding
 - 👯 I’m looking to collaborate on cloud communities 
 - 🤔 I’m looking for help with coding
-- 💬 Ask me about cloud programming
-- 📫 How to reach me: linkdin
+- 💬 Ask me about cloud and programming
+- 📫 Reach me at my linkedin 
 <br>
 <summary>:zap: GitHub Stats</summary>
 <br>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hemanthkumar3461&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
     
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Connect with me:
 
