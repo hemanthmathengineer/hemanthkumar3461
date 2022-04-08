@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate with cloud developer communities 
 - 🤔 I’m looking for help with logic building
 - 💬 Ask me about cloud and programming
-- 📫 Reach me at my linkedin 
+- 📫 Reach me at my linkedin  
+
 <br>
 <summary>:zap: GitHub Stats</summary>
 <br>
