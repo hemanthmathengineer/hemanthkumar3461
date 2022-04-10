@@ -19,10 +19,10 @@
 [![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAgCnawNvJ7q0YxUDWJH9cQ)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]()
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
