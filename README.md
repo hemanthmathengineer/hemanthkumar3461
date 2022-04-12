@@ -24,8 +24,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+[![website](./img/instagram-light.svg)](https://www.instagram.com/hemanthhanish/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/hemanthhanish/)
 
 ### Languages and Tools:
 
