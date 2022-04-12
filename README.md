@@ -15,17 +15,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
+[![website](./img/globe-light.svg)](https://github.com/hemanthkumar3461)
+[![website](./img/globe-dark.svg)](https://github.com/hemanthkumar3461)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCAgCnawNvJ7q0YxUDWJH9cQ)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAgCnawNvJ7q0YxUDWJH9cQ)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)]()
 
 ### Languages and Tools:
 
