@@ -19,9 +19,9 @@
 [![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAgCnawNvJ7q0YxUDWJH9cQ)
+[![website](./img/youtube-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hemanthkumar3461/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)]()
