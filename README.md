@@ -1,7 +1,7 @@
 ### Hi Coders!!! This is Hemanth, an aspiring SDET professional👋
 
 - 🔭 I’m currently working on softwares
-- 🌱 I’m currently learning development, testing and clouding
+- 🌱 I’m currently Testing softwares
 - 👯 I’m looking to collaborate with cloud developer communities 
 - 🤔 I’m looking for help with logic building
 - 💬 Ask me about cloud and programming
