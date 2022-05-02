@@ -1,4 +1,4 @@
-### Hi Coders!!! This is Hemanth, an aspiring SDET professional.👋
+### Hi Coders!!! This is Hemanth, an aspiring SDET professional👋
 
 - 🔭 I’m currently working on softwares
 - 🌱 I’m currently Testing softwares
