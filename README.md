@@ -1,10 +1,10 @@
-### Hi Coders!!! This is Hemanth, an aspiring SDET professional 👋
+### Hi Coders!!! This is Hemanth, an aspiring DATA professional 👋
 
 - 🔭 I’m currently working on softwares
-- 🌱 I’m currently Testing softwares
-- 👯 I’m looking to collaborate with cloud developer communities 
+- 🌱 I’m currently learning data skills
+- 👯 I’m looking to collaborate with programming and cloud developer communities 
 - 🤔 I’m looking for help with logic building
-- 💬 Ask me about cloud and programming
+- 💬 Ask me about programming and cloud
 - 📫 Reach me at my linkedin  
 
 <br>
